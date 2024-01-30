@@ -60,4 +60,5 @@ Learn to schedule, automate, and monitor data pipelines using Azure Data Factory
 - **Project: Data Integration Pipelines for NYC Payroll Data Analytics**: Built data integration pipelines for an analytics platform for the City of New York.
 
 
+## Certificate 
 ![cert](https://github.com/Opake12/Azure-Data-Engineer-ND/blob/main/images/Uda_ND_Azure_Data_Engineer.png)
